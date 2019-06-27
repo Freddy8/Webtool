@@ -70,7 +70,7 @@ function profSum() {
   "<h2>&emsp;Results-driven Credit Card Processing Sales Executive with over eight years&apos; experience in sales. "
   + "Highly skilled in cold and warm prospecting and capitalizing on sales opportunities to achieve sales goals. "
   + "Demonstrated leadership skills that enable team members to achieve individual sales goals, enhance customer "
-  + "service, and drive profits. Automotive knowledge of sales process and operations. Has a technical understanding "
+  + "service, and drive profits. Automotive knowledge of sales process and operations. Has a technical understanding of Microsft Office suite, HTML, CSS, Javascript, CRM tools, "
   + "and is bilingual. I am seeking to start a lasting career with a DealerCenter.</h2>"
 }
 
@@ -93,8 +93,7 @@ function experience() {
   + "<br>&#9672;&emsp;Acquire new merchant business partners through telemarketing by prospecting, cold-calling, "
   + "and building a relationship with clients. Perform business-to-business sales explaining the value of "
   + "our services to merchants and business owners.<br>"
-  + "<br>&#9672;&emsp;Ascertain the needs for Sure3 Online Restaurants Solutions in a wide range of businesses. Explain the "
-  + "details of credit card processing to clients.<br>"
+  + "<br>&#9672;&emsp;Quickly adapt to changes in direction and responsibilities with product offerings, regulations, and target markets.<br>"
   + "<br>&#9672;&emsp;Prepare complete and correct documentation for administrative processing and approval.<br>"
   + "<br>&#9672;&emsp;Develop a sales process and implement best practices. Gather market data to improve product offerings.<br>"
 
