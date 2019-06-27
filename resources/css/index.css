@@ -189,6 +189,11 @@ header h3 {
   padding: 4%;
 }
 
+.webtool {
+  color: white;
+  text-decoration: none;
+}
+
 .row {display: flex;
       flex-direction:row;
       }
