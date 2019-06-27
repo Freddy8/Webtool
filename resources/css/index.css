@@ -36,6 +36,7 @@ header {
   flex-direction: row;
   justify-content:flex-start;
   align-items: center;
+  text-align: center;
 }
 
 header img {
@@ -47,7 +48,7 @@ header img {
 
 header h3 {
   margin-top:2.3%;
-  margin-left: .5%;
+  margin-left:.5%;
   color: white;
   font-family: 'ProximaNovaLight';
 
@@ -201,4 +202,30 @@ header h3 {
 @media only screen and (max-width: 600px) {
         .row {display: flex;
         flex-direction: column-reverse;}
+
+        .column h1 {
+          font-size: 2.3em;
+        }
+
+        .column p {
+          font-size: 1.2em;
+        }
+
+        .mobilelogo {
+          width:45%;
+        }
+
+        .mobilephone {
+          width:3.5%;
+        }
+
+        .banner h3 {
+          margin-top: 17px;
+          margin-left: 5px;
+          font-size: 16px;
+        }
+
+        .frame {
+          padding: 8px;
+        }
   }
